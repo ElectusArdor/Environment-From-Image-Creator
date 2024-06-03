@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dbbe5ae2668f1234ea9e11ae4c301b69
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - emptySpaceUnit: {fileID: 1220248383522580000, guid: 0a68b9f2954e4b74d89051a3adbf3f98, type: 3}
+  - wallUnit: {fileID: 7043917585588727939, guid: 52ec30f83436d7e4babe6769369248e1, type: 3}
+  - foodUnit: {fileID: 2729092595650018606, guid: 8f7783c4bc14a424891cd9f63ad0e56f, type: 3}
+  - waterUnit: {fileID: 3861638361456906173, guid: fa0b8a6d76048454ca9d0c78de7d78a5, type: 3}
+  - organizm: {fileID: 7154211119723162834, guid: c3cee0d55f32a6c4f871b44b6fa24752, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
